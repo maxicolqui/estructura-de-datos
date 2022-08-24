@@ -8,7 +8,7 @@ public class Ejercicio2 {
 		// TODO Auto-generated method stub
 		System.out.println("hola mundo");
 		Scanner sc = new Scanner(System.in);
-		int dato = 0;
+		int dato = 10;
 
 	}
 
